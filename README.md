@@ -7,7 +7,7 @@ It was designed to analyze investor trends and age segmentation for UMéRA Real 
 
 ---
 
-This well detailed Investment Analytics Dashboard which I developed for UMéRA can be accessed live on streamlit [Here](https://umerainvestorsa.streamlit.app/)
+This well detailed Investment Analytics Dashboard which I developed for UMéRA can be accessed live on streamlit [Here](https://umerainvestments.streamlit.app/)
 
 ---
 
